@@ -1,0 +1,12 @@
+.background{
+    color:bisque;
+}
+.border{
+    border: solid 10px;
+    background-color:antiquewhite;
+    
+}
+table,td,th{
+    background-color:cornsilk;
+    border: solid 1px;
+}
